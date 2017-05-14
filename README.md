@@ -1,4 +1,4 @@
-## How to run our VSP implementation on the IMDb dataset
+## How to run this VSP implementation on the IMDb dataset
 
 ### Requirements:
 
